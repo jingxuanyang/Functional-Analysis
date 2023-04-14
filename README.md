@@ -1,6 +1,4 @@
-# Functional Analysis Basics
-
-# 泛函分析基础
+# Functional Analysis Basics 泛函分析基础
 
 ## Introduction
 
