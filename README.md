@@ -1,5 +1,7 @@
 # Functional Analysis Basics
 
+# 泛函分析基础
+
 ## Introduction
 
 This is the rearrangement of *Functional Analysis Basics*, written by *Shangquan Bu*, with LaTeX.
