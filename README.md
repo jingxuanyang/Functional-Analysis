@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the rearrangement of Functional Analysis Basics, written by Shangquan Bu, with LaTeX.
+This is the rearrangement of *Functional Analysis Basics*, written by *Shangquan Bu*, with LaTeX.
 
 ## 引言
 
